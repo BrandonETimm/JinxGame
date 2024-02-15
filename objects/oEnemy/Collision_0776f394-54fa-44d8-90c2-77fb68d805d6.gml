@@ -1,0 +1,1 @@
+hp -= max(1,((oJinx.damage) div 6) * other.image_xscale);
